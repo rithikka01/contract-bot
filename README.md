@@ -12,6 +12,7 @@ Finally, users can download JSON & PDF reports for legal review — all within 2
 
 
 Key Features :
+
 ✅ Upload PDF / DOCX / TXT contracts  
 ✅ Extract & split into clauses  
 ✅ Rule-based clause risk scoring (High / Medium / Low)  
