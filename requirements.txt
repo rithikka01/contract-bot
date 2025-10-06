@@ -1,0 +1,7 @@
+streamlit
+spacy
+PyPDF2
+python-docx
+nltk
+reportlab
+python-pptx
