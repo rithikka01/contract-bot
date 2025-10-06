@@ -33,6 +33,11 @@ Tech Stack
 | Report Export | reportlab |
 | Optional AI | OpenAI GPT-4 / Claude 3 (disabled in demo) |
 
+## 📸 Screenshots
+
+
+|--------|----------------|--------|
+| ![Upload](screenshots/1_upload.png) | ![Flagged Clauses](screenshots/2_flagged.png) | ["C:\Users\S NARENDRAN\Downloads\contract_analysis_report.pdf"] |
 
 
 
