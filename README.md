@@ -33,11 +33,7 @@ Tech Stack
 | Report Export | reportlab |
 | Optional AI | OpenAI GPT-4 / Claude 3 (disabled in demo) |
 
-Screenshots :
 
-
-| ![Upload]C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (88).png
-) | ![Flagged Clauses]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (91).png") | ![PDF Report]("C:\Users\S NARENDRAN\Downloads\contract_analysis_report.pdf") |
 
 
 How to Run Locally
