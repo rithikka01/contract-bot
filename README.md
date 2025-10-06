@@ -33,6 +33,12 @@ Tech Stack
 | Report Export | reportlab |
 | Optional AI | OpenAI GPT-4 / Claude 3 (disabled in demo) |
 
+Screenshots :
+
+| Upload Page | Risk Summary | Report Output |
+|--------------|---------------|----------------|
+| ![Upload]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (88).png"
+) | ![Flagged Clauses]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (91).png") | ![PDF Report]("C:\Users\S NARENDRAN\Downloads\contract_analysis_report.pdf") |
 
 
 How to Run Locally
@@ -54,3 +60,12 @@ python -m spacy download en_core_web_sm
 
 # 4️⃣ Run the app
 streamlit run app.py
+
+
+Disclaimer
+
+This is a prototype for educational purposes only —
+It does not constitute legal advice.
+For real legal consultation, always contact a qualified professional.
+
+⭐ If you found this project interesting, give it a star on GitHub!
