@@ -36,7 +36,7 @@ Tech Stack
 Screenshots :
 
 
-| ![Upload]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (88).png"
+| ![Upload]C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (88).png
 ) | ![Flagged Clauses]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\Screenshot (91).png") | ![PDF Report]("C:\Users\S NARENDRAN\Downloads\contract_analysis_report.pdf") |
 
 
