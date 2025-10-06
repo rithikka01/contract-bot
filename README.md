@@ -33,10 +33,9 @@ Tech Stack
 | Report Export | reportlab |
 | Optional AI | OpenAI GPT-4 / Claude 3 (disabled in demo) |
 
-## 📸 Screenshots
+📸 Screenshots
 
-|--------|----------------|--------|
-| !["C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\1_upload.png"](screenshots/1_upload.png) | ![Flagged Clauses]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\2_flagged.png") | ![PDF Report](screenshots/3_ai_pdf.png) |
+<img width="1217" height="679" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/95f1e4b1-56d9-4a0b-965a-d88f5d1d2c14" />
 
 
 
