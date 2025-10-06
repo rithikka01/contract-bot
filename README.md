@@ -1,24 +1,55 @@
-# Contract Risk Bot — MVP
+Contract Risk Bot — MVP  
 
-**One-line:** MVP web app that extracts contract text (PDF/DOCX/TXT), splits into clauses, performs a rule-based risk analysis, and provides mock AI explanations & suggestions. Exports JSON and PDF reports.
+AI-assisted legal contract analyzer that helps small & medium businesses identify risks, explain clauses, and download a report — all in simple language.
 
-## What it does (MVP)
-- Upload PDF / DOCX / TXT contract files.
-- Extracts text and splits into clauses.
-- Rule-based risk scoring (flags clauses using high/medium/low keyword rules).
-- Mock AI explanations & suggestions (demo mode) for flagged clauses — replaceable with GPT-4/Claude later.
-- Downloadable analysis: JSON & PDF (professional-style report).
-- Audit trail saved in the downloadable report.
 
-## Tech stack
-- Python 3, Streamlit (UI)
-- PyPDF2, python-docx (text extraction)
-- spaCy, NLTK (NLP — model included)
-- reportlab (PDF generation)
-- (Optional) OpenAI GPT-4 support — toggled off by default / mock-first
 
-## How to run (local)
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/<your-username>/contract-bot.git
-   cd contract-bot
+Overview : 
+This GenAI-powered MVP analyzes legal contracts to highlight potential risks and explain them in business-friendly terms.  
+It supports PDF, DOCX, and TXT uploads, performs rule-based risk scoring, and provides **mock AI explanations & safer alternatives.  
+Finally, users can download JSON & PDF reports for legal review — all within 2 minutes.
+
+
+
+Key Features :
+✅ Upload PDF / DOCX / TXT contracts  
+✅ Extract & split into clauses  
+✅ Rule-based clause risk scoring (High / Medium / Low)  
+✅ Mock AI explanations & safer clause suggestions  
+✅ JSON + PDF report generation with audit details  
+✅ Streamlit web UI (no setup complexity)  
+✅ Offline demo mode (no API key required)
+
+
+
+Tech Stack
+| Component | Tool / Library |
+|------------|----------------|
+| Frontend/UI | Streamlit |
+| Backend | Python 3 |
+| NLP | spaCy, NLTK |
+| File Handling | PyPDF2, python-docx |
+| Report Export | reportlab |
+| Optional AI | OpenAI GPT-4 / Claude 3 (disabled in demo) |
+
+
+
+How to Run Locally
+
+```bash
+# 1️⃣ Clone this repo
+git clone https://github.com/rithikka01/contract-bot.git
+cd contract-bot
+
+# 2️⃣ Create & activate virtual environment
+python -m venv venv
+venv\Scripts\Activate.ps1   # (PowerShell)
+# or
+source venv/Scripts/activate  # (Git Bash)
+
+# 3️⃣ Install dependencies
+pip install -r requirements.txt
+python -m spacy download en_core_web_sm
+
+# 4️⃣ Run the app
+streamlit run app.py
