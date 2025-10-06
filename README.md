@@ -36,6 +36,11 @@ Tech Stack
 📸 Screenshots
 
 <img width="1217" height="679" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/95f1e4b1-56d9-4a0b-965a-d88f5d1d2c14" />
+<img width="1183" height="672" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/c367ef29-c9b2-42a4-94c1-58bc952ade71" />
+<img width="1203" height="664" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/664d3d52-96c0-4ea3-a2b9-37914928c77e" />
+<img width="1220" height="641" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/a1001494-6f90-4431-a121-4788a3fe1965" />
+<img width="1196" height="638" alt="Screenshot (98)" src="https://github.com/user-attachments/assets/db9fb93f-d8f6-4c05-b94f-feca58a94ed2" />
+
 
 
 
