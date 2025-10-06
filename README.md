@@ -36,7 +36,7 @@ Tech Stack
 ## 📸 Screenshots
 
 |--------|----------------|--------|
-| !["C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\1_upload.png"](screenshots/1_upload.png) | ![Flagged Clauses](screenshots/2_flagged.png) | ![PDF Report](screenshots/3_ai_pdf.png) |
+| !["C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\1_upload.png"](screenshots/1_upload.png) | ![Flagged Clauses]("C:\Users\S NARENDRAN\OneDrive\Pictures\Screenshots\2_flagged.png") | ![PDF Report](screenshots/3_ai_pdf.png) |
 
 
 
